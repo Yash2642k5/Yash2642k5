@@ -2,10 +2,6 @@
 
 ### Passionate about Agentic AI
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yash2642k5&label=Profile views&color=0e75b6&style=flat" alt="Yash2642k5" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yash2642k5" alt="Yash2642k5" /></a> </p>
-
 - 🔭 I'm currently working on **Improving my previous projects like AlgoVisualizer and Vacuole.**
 
 - 🌱 I'm currently learning **Agentic AI, Query retrieval systems and vector databases.**
