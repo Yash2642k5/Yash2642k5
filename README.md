@@ -1,6 +1,6 @@
 # Hi 👋, I'm Yash2642k5
 
-### Passionate about Agentic AI
+### Passionate about Learning
 
 - 🔭 I'm currently working on **Improving my previous projects like AlgoVisualizer and Vacuole.**
 
